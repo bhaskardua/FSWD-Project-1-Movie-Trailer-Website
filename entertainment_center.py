@@ -17,19 +17,19 @@ school_of_rock = media.Movie("School of Rock",
                              "https://www.youtube.com/watch?v=3PsUJFEBC74")
 
 ratatouille = media.Movie("Ratatouille",
-                             "Storyline",
-                             "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
-                             "https://www.youtube.com/watch?v=c3sBBRxDAqk")
+                          "Storyline",
+                          "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
+                          "https://www.youtube.com/watch?v=c3sBBRxDAqk")
 
 midnight_in_paris = media.Movie("Midnight in Paris",
-                             "Storyline",
-                             "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
-                             "https://www.youtube.com/watch?v=FAfR8omt-CY")
+                                "Storyline",
+                                "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
+                                "https://www.youtube.com/watch?v=FAfR8omt-CY")
 
 hunger_games = media.Movie("Hunger Games",
-                             "Storyline",
-                             "https://upload.wikimedia.org/wikipedia/en/4/4b/Hunger_Games_Film_Poster.jpg",
-                             "https://www.youtube.com/watch?v=mfmrPu43DF8")
+                           "Storyline",
+                           "https://upload.wikimedia.org/wikipedia/en/4/4b/Hunger_Games_Film_Poster.jpg",
+                           "https://www.youtube.com/watch?v=mfmrPu43DF8")
 
 movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
 fresh_tomatoes.open_movies_page(movies)
