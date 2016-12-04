@@ -13,22 +13,22 @@ avatar = media.Movie("Avatar",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
 school_of_rock = media.Movie("School of Rock",
-                             "Storyline",
+                             "Using rock music to learn",
                              "https://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
                              "https://www.youtube.com/watch?v=3PsUJFEBC74")
 
 ratatouille = media.Movie("Ratatouille",
-                          "Storyline",
+                          "A rat is a chef in Paris",
                           "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
                           "https://www.youtube.com/watch?v=c3sBBRxDAqk")
 
 midnight_in_paris = media.Movie("Midnight in Paris",
-                                "Storyline",
+                                "Going back in time to meet authors",
                                 "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
                                 "https://www.youtube.com/watch?v=FAfR8omt-CY")
 
 hunger_games = media.Movie("Hunger Games",
-                           "Storyline",
+                           "A really real reality show",
                            "https://upload.wikimedia.org/wikipedia/en/4/4b/Hunger_Games_Film_Poster.jpg",
                            "https://www.youtube.com/watch?v=mfmrPu43DF8")
 
