@@ -10,4 +10,4 @@ From the command line navigate to the folder where you unzipped the files and is
  
  `python entertainment_center.py`
 
-If all goes well the Movie Trailer Website should open in a web browser.
+If all goes well a html file would be generated and the Movie Trailer Website would automatically open in a web browser. In case it does not then check for the fresh_tomatoes.html file and manually open it in a browser.
